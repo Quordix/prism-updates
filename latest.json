@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "app.prism.labcontroller",
-  "versionCode": 100901,
-  "versionName": "1.1.9",
-  "apkUrl": "https://raw.githubusercontent.com/Quordix/prism-updates/main/releases/100901/prism.apk",
-  "size": 2878627,
-  "sha256": "804ba37ccf482b94b2fd409ec430feff6063f8bb864f837ae2f626c48bfee313",
+  "versionCode": 101001,
+  "versionName": "1.1.10",
+  "apkUrl": "https://raw.githubusercontent.com/Quordix/prism-updates/main/releases/101001/prism.apk",
+  "size": 2878655,
+  "sha256": "a1544b109505b6856fdc3606239d3521143f632c7328cbe90e5edbf5a83b99e6",
   "certificateSha256": "306c50c5d90664e524dd89ad77b86f9bfed215b40e90337a02c3d0f1f47f4313"
 }
